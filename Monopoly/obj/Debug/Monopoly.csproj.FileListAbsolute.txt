@@ -1,0 +1,24 @@
+c:\users\voltpc3\documents\visual studio 2015\Projects\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+c:\users\voltpc3\documents\visual studio 2015\Projects\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+c:\users\voltpc3\documents\visual studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+c:\users\voltpc3\documents\visual studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.StartForm.resources
+c:\users\voltpc3\documents\visual studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+c:\users\voltpc3\documents\visual studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+c:\users\voltpc3\documents\visual studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+c:\users\voltpc3\documents\visual studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.Gracze.resources
+c:\users\voltpc3\documents\visual studio 2015\Projects\Monopoly\Monopoly\obj\Debug\Monopoly.Gra.resources
+C:\Users\Szymon\Desktop\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Szymon\Desktop\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Szymon\Desktop\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Szymon\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\Szymon\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.Gra.resources
+C:\Users\Szymon\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.Gracze.resources
+C:\Users\Szymon\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.StartForm.resources
+C:\Users\Szymon\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\Szymon\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+C:\Users\Szymon\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Szymon\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\Szymon\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.BudujForma.resources
+C:\Users\Szymon\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.ZastawPolaForm.resources

@@ -1,0 +1,5 @@
+PROJEKT MONOPOLY
+CELE:
+1. Gra Monopoly na jeden komputer dla 4 graczy.
+2. Gra Monopoly dla 4 graczy na 4 komputerach w jednej sieci.
+Termin: dla 1. do Œwi¹t Bo¿ego Narodzenia !!!
