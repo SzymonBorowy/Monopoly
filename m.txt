@@ -3,5 +3,4 @@ CELE:
 1. Gra Monopoly na jeden komputer dla 4 graczy.
 2. Gra Monopoly dla 4 graczy na 4 komputerach w jednej sieci.
 Termin: dla 1. do Świąt Bożego Narodzenia !!!
-oj nie wyszło
-bardzo nie wyszło
+
