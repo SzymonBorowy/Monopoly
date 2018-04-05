@@ -106,7 +106,7 @@ namespace Monopoly
         }
         private void buttonRzucKostka_Click(object sender, EventArgs e)
         {
-            //bot();
+            bot();
 
             buttonRzucKostka.Enabled = false;
             buttonKoniecTury.Enabled = true;
@@ -120,7 +120,8 @@ namespace Monopoly
             int kostka1 = rand.Next(1,7);
             int kostka2 = rand.Next(1,7);
             //MessageBox.Show(kostka1.ToString()+"\n"+kostka2.ToString());
-            wynik(kostka1 +kostka2);
+            wynik(1);
+            //wynik(kostka1 +kostka2);
         }
 
         private void wynik(int sumaOczek)

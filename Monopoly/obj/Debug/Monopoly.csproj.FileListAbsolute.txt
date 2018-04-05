@@ -22,3 +22,17 @@ C:\Users\Szymon\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.exe
 C:\Users\Szymon\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
 C:\Users\Szymon\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.BudujForma.resources
 C:\Users\Szymon\Desktop\Monopoly\Monopoly\obj\Debug\Monopoly.ZastawPolaForm.resources
+D:\REPOZYTORIUM GIT\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+D:\REPOZYTORIUM GIT\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+D:\REPOZYTORIUM GIT\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+D:\REPOZYTORIUM GIT\Monopoly\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+D:\REPOZYTORIUM GIT\Monopoly\Monopoly\obj\Debug\Monopoly.BudujForma.resources
+D:\REPOZYTORIUM GIT\Monopoly\Monopoly\obj\Debug\Monopoly.Gra.resources
+D:\REPOZYTORIUM GIT\Monopoly\Monopoly\obj\Debug\Monopoly.Gracze.resources
+D:\REPOZYTORIUM GIT\Monopoly\Monopoly\obj\Debug\Monopoly.StartForm.resources
+D:\REPOZYTORIUM GIT\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+D:\REPOZYTORIUM GIT\Monopoly\Monopoly\obj\Debug\Monopoly.ZastawPolaForm.resources
+D:\REPOZYTORIUM GIT\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+D:\REPOZYTORIUM GIT\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+D:\REPOZYTORIUM GIT\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+D:\REPOZYTORIUM GIT\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
